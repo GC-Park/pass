@@ -1,0 +1,11 @@
+body{
+  background: url("../img/pass.png") no-repeat;
+}
+
+.pass{
+  border: 10px solid black;
+  font-size: 75px;
+  margin-left: 1200px;
+  margin-top: 200px;
+  margin-right: 100px;
+}
